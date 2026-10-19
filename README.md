@@ -4,7 +4,8 @@ A free, offline viewer for `.prn` files produced by **Maintop** for the **WLY320
 
 Maintop's PRN output is a raw, already-halftoned print file, not a standard image or printer-language file, so ordinary PRN viewers and converters can't open it. This tool decodes it directly and shows you what the job will print: layout, ink channels, white underbase and colour.
 
-<!-- Add a screenshot here: ![Screenshot](docs/screenshot.png) -->
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/d2003b5d-fe43-4216-b7fc-0b25835b2666" />
+
 
 ## Features
 
